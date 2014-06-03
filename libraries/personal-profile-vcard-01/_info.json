@@ -1,0 +1,8 @@
+{
+	"title":"个人履历介绍",
+	"description":"个人履历介绍模版页面",
+	"tags":["personal","profile","javascript","html"],
+	"preview":"demo.jpg",
+	"demo":"personalvcard01/index.html",
+	"pack":"timeline-portfolio.zip"
+}
